@@ -59,17 +59,13 @@ La gobernanza de datos es esencial para asegurar la calidad, seguridad y cumplim
 - **Script de Validación de Datos**: [data-validation-script.py](tools/data-validation-script.py) 🧾
 - **Script de Limpieza de Datos**: [data-cleansing-script.py](tools/data-cleansing-script.py) 🧼
 
-### Ejemplos
-
-- **Ejemplo de Validación de Datos**: [data-validation-example.ipynb](examples/data-validation-example.ipynb) 📊
-- **Ejemplo de Limpieza de Datos**: [data-cleansing-example.ipynb](examples/data-cleansing-example.ipynb) 🧹
 
 ## 🏗️ Marcos de Gobernanza
 
 ### Marcos y Configuraciones
 
 - **Configuración de Apache Atlas**: [apache-atlas-config.md](frameworks/apache-atlas-config.md) 🗺️
-- **Guía de Configuración de Collibra**: [collibra-setup-guide.md](frameworks/collibra-setup-guide.md) 📘
+
 
 ## 🤝 Contribuir
 
