@@ -4,7 +4,7 @@
 
 ## 📜 Código de Conducta
 
-Este proyecto y todos los participantes están regidos por nuestro **Código de Conducta**. Al participar, se espera que cumplas este código para mantener un ambiente respetuoso y colaborativo. Por favor, lee el [Código de Conducta](CODE_OF_CONDUCT.md) para más detalles.
+Para este proyecto, se espera que todos los participantes se comprometan a cultivar un ambiente que no solo sea respetuoso y colaborativo, sino también inclusivo y acogedor para todas las personas, independientemente de su procedencia o creencias. Esto incluye fomentar el diálogo constructivo.
 
 ## 📌 ¿Cómo Contribuir?
 
