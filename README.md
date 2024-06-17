@@ -4,7 +4,7 @@
 Este repositorio está diseñado para proporcionar recursos, plantillas y herramientas para implementar y mantener prácticas efectivas de gobernanza de datos.
 
 ### Status: 
-🌱 Este proyecto está en desarrollo y apreciamos mucho las contribuciones y nuevas ideas de la comunidad. Consulta [guías para contribuir](CONTRIBUTING.md) para más información sobre cómo involucrarte
+🌱 Este proyecto está en desarrollo y agradezco mucho las contribuciones o nuevas ideas de la comunidad. Consulta [guías para contribuir](CONTRIBUTING.md) para más información sobre cómo involucrarte
 
 ## 📑 Tabla de Contenidos
 
